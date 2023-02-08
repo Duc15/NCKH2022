@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "707656060724",
+    "firebase_url": "https://project4-6030f-default-rtdb.firebaseio.com",
+    "project_id": "project4-6030f",
+    "storage_bucket": "project4-6030f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707656060724:android:15f020f6513efa621f5f61",
+        "android_client_info": {
+          "package_name": "com.PhamMinhDuc.KienShop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707656060724-7fno1u7c8eedo89qhj5j3abehdclisbc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYBfNgIql4hGBX0OaPxG44avoXhtkpOe8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707656060724-7fno1u7c8eedo89qhj5j3abehdclisbc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
